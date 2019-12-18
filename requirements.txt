@@ -1,0 +1,6 @@
+Cython
+flask==1.1.1
+
+# dataflow requirements
+-e ./wordcount-extras
+-e ./wordcount-pipeline
